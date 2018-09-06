@@ -8,6 +8,8 @@ You can see the presentation slides here: http://sketch101.unhype.me
 
 (Or, you can clone this repo and open the index.html file.)
 
+You can also find the demo files in the [/sketchfiles](https://github.com/esthor/no-flo-sketch/tree/master/Sketch%20North%20Florida%20-%20Meetup%20001/sketchfiles) folder
+
 ### The Topics
 
 We covered some basics of Sketch:
