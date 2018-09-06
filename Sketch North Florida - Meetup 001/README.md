@@ -1,6 +1,6 @@
 # Sketch & Design North Florida - Meetup 001
 
-🎉 This was our inaugural meetup! 🎉
+🎉 This was our inaugural meetup! 🎉   [Meetup Link](https://www.meetup.com/Sketch-Design-North-Florida/events/253925476/)
 
 ### The Presentation
 
