@@ -4,14 +4,16 @@ So far we have read **0** books on design together. Let's read more!
 
 ## Books On Our List
 
-1. "Don't Make Me Think" by Steve Krug [Amazon Link](https://www.amazon.com/Dont-Make-Think-Revisited-Usability-dp-0321965515/dp/0321965515/)
-1. The Design of Everyday Things by Don Norman [Amazon Link](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/)
+1. *"Don't Make Me Think"* by Steve Krug [Amazon Link](https://www.amazon.com/Dont-Make-Think-Revisited-Usability-dp-0321965515/dp/0321965515/)
+1. *"The Design of Everyday Things"* by Don Norman [Amazon Link](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/)
+1. *"Hooked - How to Build Habit-Forming Products"* by Nir Eyal [Amazon Link](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
+1. *"Rocket Surgery Made Easy"* by Steve Krug [Amazon Link](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)
+1. *"Just Enough Research"* by Erika Hall [Amazon Link](https://www.amazon.com/Just-Enough-Research-Erika-Hall/dp/1937557103)
 
 ## Books That Will Probably Make It On Our List
 
 (This is almost entirely inspired by the SF UX Book Club [Book List](https://www.meetup.com/SF-UX-Book-Club/pages/20922829/List_of_Books_Read_by_the_Group/))
 
-- Just Enough Research by Erika Hall
 - Interviewing Users by Steve Portigal
 - About Face 4 (Mobile Chapter) by Alan Cooper
 - Usable Usability by Eric Reis
@@ -25,7 +27,6 @@ So far we have read **0** books on design together. Let's read more!
 - Information Architecture: Blueprints for the Web by Christina Wodtke
 - Lean Customer Development by Cindy Alvarez
 - Experience Design: A Framework for Integrating Brand, Experience, and Value
-- Hooked - How to Build Habit-Forming Products by Nir Eyal
 - The UX Team of One by Leah Buley
 - 100 Things Every Designer Needs to Know About People by Susan Weinschenk
 - The Persona Lifecycle: Keeping People in Mind Throughout Product Design
@@ -37,7 +38,6 @@ So far we have read **0** books on design together. Let's read more!
 - Design for the Mind by Victor Yocco
 - Designing the Conversation by Russ Unger, Brad Nunnally, and Dan Willis
 - The Handbook of Usability Testing by Dana Chisnell and Jeffrey Rubin
-- Rocket Surgery Made Easy by Steve Krug
 - You're My Favorite Client by Mike Monteiro
 - UI is Communication By Everett McKay
 - Innovation Games by Luke Hohmann
